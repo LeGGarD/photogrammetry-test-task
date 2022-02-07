@@ -8,6 +8,7 @@
   
 ***
 ## Description   
+<img src='./images/1.png' alt='room top view' width='500'>  
   
 Small room with a human actor inside. On one of the walls we have two cameras placed in parallel to each other:  
   
@@ -17,8 +18,10 @@ Small room with a human actor inside. On one of the walls we have two cameras pl
   
 ### Simplified example  
 Two cameras (Blue and Green) are observing the Actor movements on the scene:  
+<img src='./images/2.png' alt='room top view' width='750'>  
   
 ### Observable frames for “Actor position 1” (In-front of the camera #1):  
+<img src='./images/3.png' alt='room top view' width='500'>  
   
 Simplified coordinates (for illustrative purposes only):  
 > #### Input:  
@@ -28,8 +31,10 @@ Simplified coordinates (for illustrative purposes only):
 > Estimate of Mid camera position: x:512 y:540 z: 250  
   
 ### “Actor position 2” (Between the cameras):  
+<img src='./images/4.png' alt='room top view' width='500'>  
   
 ### “Actor position 3” (In-front of the camera #2):  
+<img src='./images/5.png' alt='room top view' width='500'>  
   
 ***
 ## Delivery  
